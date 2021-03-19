@@ -20,7 +20,7 @@
 				<mxCell id="62"  value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.role;fillColor= #759C3E;gradientColor=none;" vertex="none" parent="1">
 					<mxGeometry x="234.79469910264015" y="228.51444160938263" width="83.48918778486069" height="75.37691996930769" as="geometry"/>
 				</mxCell>
-				<mxCell id="92"  value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor= #E05243;gradientColor=none;" vertex="none" parent="1">
+				<mxCell id="97"  value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor= #E05243;gradientColor=none;" vertex="none" parent="1">
 					<mxGeometry x="656.1410091519356" y="495.9192008972168" width="66.11049716766209" height="69.6085807062308" as="geometry"/>
 				</mxCell>
 			</root>
